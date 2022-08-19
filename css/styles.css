@@ -219,6 +219,8 @@ header,
   flex: 1 48%;
   padding-bottom: 0;
 }
+
+
 .portfolio .row {
 flex-wrap: wrap;
 column-gap: 13px;
